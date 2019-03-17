@@ -1,12 +1,14 @@
 {
   "name": "@challenge/tiny",
   "version": "1.0.0",
-  "description": "",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "git@github.com:ToBeNumerOne/tiny.git",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Cheng Chen <chengchen5@cmbc.com.cn>",
-  "license": "ISC"
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
 }
